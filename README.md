@@ -1,6 +1,6 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Digital_rain_banner.gif/798px-Digital_rain_banner.gif?20180717110226)](https://rohanthapa123.io)
 <h1 align="center">Hi 👋, I'm Rohan Thapa</h1>
-<h3 align="center">A passionate front-end developer from Nepal</h3>
+<h3 align="center">A passionate web developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jyxa2biiakusv5begaxrsp4xx3v77vgkuzpivabi&rid=giphy.gif&ct=g">
 
 
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **NExtjs**
 
-- 💬 Ask me about **react,tailwind,nextjs**
+- 💬 Ask me about **react,node, tailwind & nextjs**
 
 - 📫 How to reach me **thaparohan2019@gmail.com**
 
-- ⚡ Fun fact **I think I am I**
+- ⚡ Fun fact **Find One!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
